@@ -2,6 +2,7 @@
   "name": "my-to-do-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://yuriyfomin17.github.io/my-to-do-redux",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "uuid": "^8.3.0"
   }
 }
