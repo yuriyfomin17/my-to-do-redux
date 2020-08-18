@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-to-do-redux/static/css/main.5f361e03.chunk.css",
+    "main.js": "/my-to-do-redux/static/js/main.0c6b8047.chunk.js",
+    "main.js.map": "/my-to-do-redux/static/js/main.0c6b8047.chunk.js.map",
+    "runtime-main.js": "/my-to-do-redux/static/js/runtime-main.8ca1c23c.js",
+    "runtime-main.js.map": "/my-to-do-redux/static/js/runtime-main.8ca1c23c.js.map",
+    "static/js/2.b127b6f4.chunk.js": "/my-to-do-redux/static/js/2.b127b6f4.chunk.js",
+    "static/js/2.b127b6f4.chunk.js.map": "/my-to-do-redux/static/js/2.b127b6f4.chunk.js.map",
+    "index.html": "/my-to-do-redux/index.html",
+    "precache-manifest.06d2c108f89679adace29cb3d2dc86be.js": "/my-to-do-redux/precache-manifest.06d2c108f89679adace29cb3d2dc86be.js",
+    "service-worker.js": "/my-to-do-redux/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/my-to-do-redux/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b127b6f4.chunk.js.LICENSE.txt": "/my-to-do-redux/static/js/2.b127b6f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ca1c23c.js",
+    "static/js/2.b127b6f4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0c6b8047.chunk.js"
+  ]
+}
